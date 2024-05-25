@@ -1,0 +1,3 @@
+First of all Here is a link to a download of the file if I never get Git LFS of any other method working:
+
+https://drive.google.com/drive/folders/1YEHN_rzFMRlJ6s9YhP6v_BBz_eNEZU39?usp=drive_link
